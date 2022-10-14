@@ -1,4 +1,4 @@
-# miniproject-netpracharat
+# Net pracharat
 Topic: ข้อมูลการใช้งาน อินเทอร์เน็ตประชารัฐ
 
 Dataset: องค์กรสำนักงานปลัดกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
